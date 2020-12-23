@@ -22,13 +22,13 @@ Steps to build and run project:
 
 ### Sync
 
-<img alt="GitHub last commit" src="https://github.com/johnatasr/Be-The-Hero-Mobile/blob/master/screens/6.png" width="250">
+<img alt="GitHub last commit" src="https://github.com/johnatasr/Async-X-Sync-Django/blob/master/assets/sync-test.png" width="250">
 
 Time : 1.69 seconds
 
 ### Async
 
-<img alt="GitHub last commit" src="https://github.com/johnatasr/Be-The-Hero-Mobile/blob/master/screens/6.png" width="250">
+<img alt="GitHub last commit" src="https://github.com/johnatasr/Async-X-Sync-Django/blob/master/assets/async-test.png" width="250">
 
 Ps. In a synchronized view, I used a class-based view, but in the asynchronous view on a developer server it is not compatible to use, 
 so I did it in function based views.
