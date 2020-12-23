@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+{% block content %}
+    <div class="row">
+        <h3> Select one to test:  </h3>
+    </div>
+    <div class="row">
+        <div class="col m-3">
+           <button class="btn btn-info" onclick="location.href='/sync'"> Sync </button>
+        </div>
+
+       <div class="col m-3">
+            <button class="btn btn-info" onclick="location.href='/async'"> Async </button>
+        </div>
+    </div>
+
+{% endblock %}
